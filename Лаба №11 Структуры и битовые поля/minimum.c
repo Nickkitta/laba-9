@@ -9,6 +9,7 @@ struct catalog
 
 int main()
 {
+    printf("hello");
     struct catalog first = {"Senkevich", "Flood", 1978, "F"};
     struct catalog second = {"Landau", "Mechanics", 1989, "E"};
     struct catalog third = {"Doil", "Marsupials", 1990, "R"};
